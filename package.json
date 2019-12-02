@@ -21,5 +21,6 @@
   "scripts": {
     "dev": "parcel serve src/index.html",
     "build": "parcel build src/index.html"
-  }
+  },
+  "proxy": "https://merng.herokuapp.com/"
 }
